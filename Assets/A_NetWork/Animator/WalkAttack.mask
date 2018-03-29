@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: WalkAttack
+  m_Mask: 01000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Body_mesh
+    m_Weight: 1
+  - m_Path: Monster
+    m_Weight: 1
+  - m_Path: MonsterHub001
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit11
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit11/MonsterLArmDigit12
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit11/MonsterLArmDigit12/MonsterLArmDigit13
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit21
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit21/MonsterLArmDigit22
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit21/MonsterLArmDigit22/MonsterLArmDigit23
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit31
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit31/MonsterLArmDigit32
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit31/MonsterLArmDigit32/MonsterLArmDigit33
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit41
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit41/MonsterLArmDigit42
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit41/MonsterLArmDigit42/MonsterLArmDigit43
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit51
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit51/MonsterLArmDigit52
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterLArmCollarbone/MonsterLArm1/MonsterLArm2/MonsterLArmPalm/MonsterLArmDigit51/MonsterLArmDigit52/MonsterLArmDigit53
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit11
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit11/MonsterRArmDigit12
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit11/MonsterRArmDigit12/MonsterRArmDigit13
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit21
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit21/MonsterRArmDigit22
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit21/MonsterRArmDigit22/MonsterRArmDigit23
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit31
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit31/MonsterRArmDigit32
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit31/MonsterRArmDigit32/MonsterRArmDigit33
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit41
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit41/MonsterRArmDigit42
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit41/MonsterRArmDigit42/MonsterRArmDigit43
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit51
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit51/MonsterRArmDigit52
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterRArmCollarbone/MonsterRArm1/MonsterRArm2/MonsterRArmPalm/MonsterRArmDigit51/MonsterRArmDigit52/MonsterRArmDigit53
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/Eyes_mesh
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/Horns_mesh
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/MonsterHub003Bone001
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/MonsterHub003Bone001/DownTeeth
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/MonsterHub003Bone001/DownTeeth/Down_jaw_mesh
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/MonsterHub003Bone001/DownTeeth/Down_teeth_mesh
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/MonsterHub003Bone001/MonsterHub003Bone005
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/MonsterHub003Bone001/MonsterHub003Bone007
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/MonsterHub003Bone001/MonsterHub003Bone009
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/MonsterHub003Bone002
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/MonsterHub003Bone003
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/MonsterHub003Bone004
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/MonsterHub003Bone006
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/MonsterHub003Bone008
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/Tongue_mesh
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/UpTeeth
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/UpTeeth/Up_jaw_mesh
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterHub001Bone001/MonsterSpine1/MonsterSpine2/MonsterHub002/MonsterSpine/MonsterHub003/UpTeeth/Up_teeth_mesh
+    m_Weight: 1
+  - m_Path: MonsterHub001/MonsterLLeg1
+    m_Weight: 0
+  - m_Path: MonsterHub001/MonsterLLeg1/MonsterLLeg2
+    m_Weight: 0
+  - m_Path: MonsterHub001/MonsterLLeg1/MonsterLLeg2/MonsterLLegAnkle
+    m_Weight: 0
+  - m_Path: MonsterHub001/MonsterLLeg1/MonsterLLeg2/MonsterLLegAnkle/MonsterLLegDigit11
+    m_Weight: 0
+  - m_Path: MonsterHub001/MonsterLLeg1/MonsterLLeg2/MonsterLLegAnkle/MonsterLLegDigit11/MonsterLLegDigit12
+    m_Weight: 0
+  - m_Path: MonsterHub001/MonsterRLeg1
+    m_Weight: 0
+  - m_Path: MonsterHub001/MonsterRLeg1/MonsterRLeg2
+    m_Weight: 0
+  - m_Path: MonsterHub001/MonsterRLeg1/MonsterRLeg2/MonsterRLegAnkle
+    m_Weight: 0
+  - m_Path: MonsterHub001/MonsterRLeg1/MonsterRLeg2/MonsterRLegAnkle/MonsterRLegDigit11
+    m_Weight: 0
+  - m_Path: MonsterHub001/MonsterRLeg1/MonsterRLeg2/MonsterRLegAnkle/MonsterRLegDigit11/MonsterRLegDigit12
+    m_Weight: 0
+  - m_Path: MonsterLLegPlatform
+    m_Weight: 1
+  - m_Path: MonsterRLegPlatform
+    m_Weight: 1
